@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>90557CAC-B239-4D3B-81CA-18A5ED1ECE80</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NBColorPicker</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E9701CCC2330093F291ACD8DA08772EA7C378960</key>
+		<string>https://github.com/Basadev/NBColorPicker.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>NBColorPicker.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E9701CCC2330093F291ACD8DA08772EA7C378960</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Basadev/NBColorPicker.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E9701CCC2330093F291ACD8DA08772EA7C378960</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E9701CCC2330093F291ACD8DA08772EA7C378960</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NBColorPicker</string>
+		</dict>
+	</array>
+</dict>
+</plist>
